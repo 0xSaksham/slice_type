@@ -1,6 +1,6 @@
 fn main() {
     let mut s = String::from("Hello World");
-    let word = first_word(&s);
+    let _word = first_word(&s);
     
     s.clear();
 }
