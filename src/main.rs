@@ -3,6 +3,7 @@ fn main() {
     let _word = first_word(&s);
     
     s.clear();
+    println!("The first word is: {}", _word);
 }
 
 // Slice Type
